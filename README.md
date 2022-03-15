@@ -1,7 +1,7 @@
 
 # Timestamp-Microservice
 
-This is a simple web page where you can go to a date route and it returns a JSON object with the unix timestamp of the date and other information about it.
+This is a simple web page where you can go to a date route and it returns a JSON object with the unix timestamp of the date and other information about it. If no date is provided then it returns the current date and unix timestamp.
 
 ## Example Use
 
